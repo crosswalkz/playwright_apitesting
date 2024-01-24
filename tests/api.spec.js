@@ -78,6 +78,3 @@ test.describe.parallel("Api Testing ", async () => {
   })
 });
 
-
-
-test.describe.parallel("Api Testing ", async () => {});
